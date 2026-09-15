@@ -4,7 +4,7 @@ A simple interactive Number Guessing Game developed using Java Swing.
 
 ## Project Overview
 
-The application generates a random number between 1 and 100. 
+The application generates a random number between 1 and 100.  
 The player has a maximum of 10 attempts to guess the correct number.
 
 ## Features
@@ -34,7 +34,3 @@ Compile the program:
 
 ```bash
 javac NumberGuessingGame.java
-
-## Screenshot
-
-![Number Guessing Game](game-screenshot.png)
