@@ -34,3 +34,7 @@ Compile the program:
 
 ```bash
 javac NumberGuessingGame.java
+
+## Screenshot
+
+![Number Guessing Game](game-screenshot.png)
